@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{480A612E-D536-40FF-A332-7DDFE2375CD0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloCs/Program.cs">
+    <Files>
+      <File FileName="HelloCs/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/Program.cs" relfile="HelloCs/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloCs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

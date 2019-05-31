@@ -1,0 +1,6 @@
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/bin/Debug/HelloCs.exe
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/bin/Debug/HelloCs.pdb
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/obj/x86/Debug/HelloCs.csprojResolveAssemblyReference.cache
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/obj/x86/Debug/HelloCs.csproj.CoreCompileInputs.cache
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/obj/x86/Debug/HelloCs.exe
+/Users/jeong/Desktop/hello/tutorial-.net/HelloCs/HelloCs/obj/x86/Debug/HelloCs.pdb
